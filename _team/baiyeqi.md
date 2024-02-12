@@ -9,4 +9,3 @@ category: Faculty or Visiting Scholar or Joint Ph.D
 # category: Alumni
 # redirect: http://github.com/friskit-china
 ---
-
